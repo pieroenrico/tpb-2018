@@ -37,7 +37,9 @@
 
 
                     <div class="primary-content">
-                        <p>Lorem ipsum...</p>
+                        <p class="lead"><strong>Villa Girondo | Social</strong> es un juego de realidad aumentada en el que los participantes deben opinar sobre la relocalización o no de Villa Girondo debido a la construcción de una represa.</p>
+                            <p>En el juego aparecen diversos argumentos a favor y en contra sobre los cuáles los participantes deben tomar posición.
+                            El juego se desarrolla en <a href="https://www.instagram.com/villagirondo/" target="_blank">Instagram</a> y tiene una duración de dos semanas.</p>
 
                     </div>
 

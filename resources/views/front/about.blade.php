@@ -88,13 +88,13 @@
                             <div class="col-three text-center team-member">
                                 <img src="/images/team/vale.jpg" alt="" class="img-team">
                                 <h4>Valeria Stern</h4>
-                                <h5>Presentación</h5>
+                                <h5>Directora Cinematográfica. Universidad del Cine. Buenos Aires.</h5>
                             </div>
 
                             <div class="col-three text-center team-member">
                                 <img src="/images/team/luisa.jpg" alt="" class="img-team">
                                 <h4>Luisa Tomatti</h4>
-                                <h5>Presentación</h5>
+                                <h5>Licenciada en Historia del Arte. Universidad de Buenos Aires.</h5>
                             </div>
 
 

@@ -1610,9 +1610,15 @@ input::-moz-focus-inner {
  * ------------------------------------------------------------------- */
 header {
 	width: 100%;
-	background: #22c1c3;  /* fallback for old browsers */
-	background: -webkit-linear-gradient(to bottom, #fdbb2d, #22c1c3);  /* Chrome 10-25, Safari 5.1-6 */
-	background: linear-gradient(to bottom, #fdbb2d, #22c1c3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	/*
+	background: #22c1c3;
+	background: -webkit-linear-gradient(to bottom, #fdbb2d, #22c1c3);
+	background: linear-gradient(to bottom, #fdbb2d, #22c1c3); */
+
+	background: #C6FFDD;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to bottom, #f7797d, #FBD786, #C6FFDD);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to bottom, #f7797d, #FBD786, #C6FFDD); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
 	height: 100vh;
 	border-bottom: 1px solid #E5E5E5;
 }
@@ -1786,7 +1792,7 @@ header .logo a {
 #main-nav-wrap {
 	display: table;
 	float: right;
-	padding-right: 85px;
+	padding-right: 55px;
 	font-family: 'Source Sans Pro', sans-serif;
 	font-size: 15px;
 	height: 78px;

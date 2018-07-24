@@ -65,7 +65,7 @@
 
             <div class="col-two tab-1-3 mob-1-2 site-links">
 
-                <h4>Site Links</h4>
+                <h4>Navegación</h4>
 
                 <ul>
                     <li><a href="{{ route('about') }}">Quiénes Somos</a></li>
