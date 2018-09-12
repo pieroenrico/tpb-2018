@@ -14,10 +14,9 @@
                         <div class="post-content">
                             <ul class="entry-meta">
                                 <li>Literatura y espacialidad</li>
-                                {{--<li><a href="#" >Naruto Uzumaki</a></li>--}}
                             </ul>
 
-                            <h1 class="slide-title"><a href="single-standard.html" title="">Mundos en mi Barrio</a></h1>
+                            <h1 class="slide-title"><a href="{{ route('product', ['id' => 'mundos-en-mi-barrio']) }}" title="">Mundos en mi Barrio</a></h1>
                         </div>
 
                     </div>

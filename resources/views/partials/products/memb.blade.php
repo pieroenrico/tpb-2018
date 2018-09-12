@@ -20,7 +20,7 @@
 
         </div>
         <div class="entry-excerpt">
-            Literatura y espacialidad
+            Plataforma: Literatura, Fotografía y Territorio
         </div>
     </div>
 

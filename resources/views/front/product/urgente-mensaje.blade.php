@@ -29,11 +29,15 @@
                             <li class="cat"><a href="">Videojuego</a></li>
                         </ul>
 
-                        <p class="lead"><strong>Urgente Mensaje: El desafío de llegar</strong> invita a sumergirse en la toma de decisiones de logística en un entorno futurista. </p>
+                        <p class="lead"><strong>Urgente Mensaje: El desafío de llegar</strong> invita a sumergirse en la toma de decisiones de logística en un entorno futurista.
+                        </p>
 
 
-                        <p>El juego gira alrededor de la figura de un mensajero que debe llevar recados a diversos lugares del globo. A través de las misiones que debe resolver, los recursos de los que dispone y los conflictos que condicionan las opciones que tomará, los jugadores tomarán contacto con la complejidad que tiene la circulación de bienes y personas en el
-                            mundo actual, las vías y medios de transportes disponibles, y sus costos ambientales.</p>
+                        <p>El juego gira alrededor de la figura de un mensajero que debe llevar recados a diversos
+                            lugares del globo. A través de las misiones que debe resolver, los recursos de los que
+                            dispone y los conflictos que condicionan las opciones que tomará, los jugadores tomarán
+                            contacto con la complejidad que tiene la circulación de bienes y personas en el mundo
+                            actual, las vías y medios de transportes disponibles, y sus costos ambientales.</p>
 
                         <p>El juego invita a "viajar" por el mundo tomando decisiones, sorteando obstáculos, haciendo
                             uso de la tecnología que se presenta como disponible. El éxito del jugador dependerá en
@@ -42,6 +46,7 @@
 
                         <p>Durante el 2009 y 2010 se realizaron experiencias de trabajo con docentes y alumnos en
                             escuelas de Provincia y de Ciudad de Buenos Aires.</p>
+
 
 
                         {{--<p class="text-center"><img src="{{ asset('images/products/galleries/um/postman.png') }}" alt="" width="300"></p>--}}

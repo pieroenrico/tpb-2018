@@ -38,30 +38,24 @@
 
                     <div class="primary-content">
 
-                        <p class="lead">El principal objetivo es generar una comunidad de usuarios
-                            que comparta su interés por la lectura, y proponerles que se involucren con los cuentos
-                            clásicos argentinos desde otro ángulo.</p>
+                        <p class="lead">El principal objetivo de esta plataforma es generar una comunidad de usuarios que comparta su interés por la lectura, y proponerles que se involucren con obras literarias argentinas desde un nuevo ángulo. Es una apuesta por integrar diferentes lenguajes, la literatura, la fotografía, a propósito del territorio, el barrio. Se trata de una propuesta quese adapta fácilmente al escenario escolar, pero también es interesante para pensar en otros espacios como clubes barriales, bibliotecas populares, etc.</p>
 
                         <p>La plataforma brinda la posibilidad a los jugadores de compartir en una galería de imágenes las hipótesis visuales que ellos tengan sobre las distintas locaciones citadas en los cuentos elegidos. Este banco de imágenes servirá de material de consulta para otros usuarios y docentes que estén convocando a sus alumnos a participar.</p>
 
-                        <p>La propuesta parte de desplegar sobre un mapa de la Ciudad de Buenos Aires, todos los sitios
-                            de interés mencionados en los cuentos seleccionados. La selección de cuentos estará a cargo
-                            nuestro y de intelectuales invitados a participar, y abarca la obra de reconocidos autores
-                            argentinos del siglo XX.</p>
+                        <p>La plataforma brinda la posibilidad a los usuarios de compartir en una galería de imágenes
+                            las hipótesis visuales que ellos construyen sobre las distintas referencias espaciales que
+                            aparecen en obras elegidas. La selección abarca obras que se desarrollan en diferentes
+                            lugares de la Ciudad de Buenos Aires, se incluyeron autores clásicos de la literatura
+                            porteña así autores menos explorados; el común denominador de las obras es su fuerte anclaje
+                            al territorio.</p>
 
-                        <p>Se hará un relevamiento de los sitios de interés que se mencionan en los cuentos, volcando
-                            en el mapa esta información, trazando los posibles recorridos según cada cuento. La
-                            plataforma estará vinculada con Google Maps para que los jugadores puedan armar sus propios
-                            recorridos o ver las distancias en relación a su casa, barrio o zona más frecuentada.</p>
+                        <p>Al ingresar en la plataforma, el usuario puede visualizar un mapa de su zona, leer las obras
+                            que hablan sobre el barrio, ver los recorridos fotográficos de otros usuarios a partir de
+                            los cuentos y compartir las imágenes que capture en sus propios recorridos. Cada imagen que
+                            comparta el lector estará asociada con un lugar específico en el mapa del barrio de manera
+                            tal que en la vista de mapa el usuario encontrará una nube de pictogramas que indican las
+                            huellas de sus propios recorridos y los de otros usuarios.</p>
 
-                        <p>El usuario puede ingresar en el mapa, seleccionar una zona y elegir entre los cuentos
-                            propuestos según el barrio, se podrá descargar el cuento o leerlo online. Una vez elegido el
-                            cuento, se proponen un grupo de actividades a través de preguntas que el jugador deberá
-                            responder a partir de un imaginario y de un recorrido por la zona propuesta, para ello será
-                            necesario salir a relevar las imágenes necesarias que respondan a esas preguntas.</p>
-
-                        <p>Finalmente se proveerá un espacio virtual en el que cada jugador/usuario podrá subir las
-                            imágenes y vincularlas con el cuento que eligió y la zona abarcada.</p>
 
 
 

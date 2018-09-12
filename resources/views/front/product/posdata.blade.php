@@ -37,19 +37,17 @@
 
 
                     <div class="primary-content">
-                        <p class="lead">Partiendo de la idea de que las imágenes contienen y expresan un sentido que
-                            excede su forma externa o las palabras, y la capacidad de comunicar y de interpretar está
-                            atravesada por el contexto en el que se expresan, vale pensar que podemos hacer uso de las
-                            imágenes para generar nuevos usos e interpretaciones de acuerdo a la combinación y su puesta
-                            en juego.</p>
+                        <p class="lead">Partiendo de la idea de que las imágenes contienen y expresan un sentido que excede su forma externa o las palabras, y la capacidad de comunicar y de interpretar está atravesada por el contexto en el que se expresan, vale pensar que podemos hacer uso de las imágenes para generar nuevos usos e interpretaciones de acuerdo a la combinación y su puesta en juego.</p>
 
-                        <p>Uno de los objetivos de este juego es lograr, mediante la combinatoria de una sucesión de
-                            imágenes, la reconstrucción de un suceso histórico que sea interpretable por sus
+                        <p>Uno de los objetivos de este juego es lograr, mediante la elaboración de series o secuencias
+                            de imágenes, la reconstrucción de un suceso histórico que sea interpretable por sus
                             contrincantes.</p>
 
                         <p>Este objetivo propone estimular la capacidad creativa mediante la selección y combinación de
                             imágenes, a la vez que pone en ejercicio recursos mnemotécnicos y discursivos generados de
-                            manera colectiva, mediante el consenso grupal.</p>
+                            manera colectiva, para así, mediante el consenso grupal, revisitar momentos y personajes
+                            claves de la historia.</p>
+
 
 
                     </div>

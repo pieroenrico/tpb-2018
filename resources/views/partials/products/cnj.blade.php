@@ -20,7 +20,7 @@
 
         </div>
         <div class="entry-excerpt">
-            Base de datos
+            Videojuego: Arqueología y Patrimonio
         </div>
     </div>
 

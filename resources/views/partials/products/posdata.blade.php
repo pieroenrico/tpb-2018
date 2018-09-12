@@ -20,7 +20,7 @@
 
         </div>
         <div class="entry-excerpt">
-            Un juego de cartas sobre la construcción de los símbolos patrios.
+            Juego de Cartas: Colección Iconografía
         </div>
     </div>
 

@@ -31,6 +31,7 @@
 
                         <p class="lead"><strong>Expedición 16|21</strong> es un juego que te permite experimentar el trabajo de un arqueólogo,
                             un ejercicio de interpretación e intuición a partir de elementos concretos que forman parte de una investigación real.
+
                         </p>
 
 
@@ -56,27 +57,31 @@
                             los arqueólogos en el terreno que se va a analizar. La hipótesis irá tomando forma o mutará
                             en función de los datos que arrojen los elementos observados.</p>
 
+                        <p>La idea original de este juego surge a partir de la Investigación arqueológica: “Vida y
+                            muerte en el Estrecho de Magallanes: Arqueología en la ciudad del Nombre de Jesús (siglo
+                            XVI)” dirigido por la Dra. María Ximena Senatore (UNPA) y co-dirigido por la Dra. Mariana De
+                            Negris (UBA).</p>
+
+
                         <p class="text-center"><iframe src="https://player.vimeo.com/video/112387324" width="950" height="534" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
 
                         <h3 class="entry-title add-bottom">Sobre la historia de Ciudad del Nombre de Jesús</h3>
 
-                        <p>El proceso de conquista y colonización de América comenzó en 1492 con la llegada de
-                            Cristobal Colón. A partir de ese momento, España se erigió como la mayor potencia mundial,
-                            seguida por Portugal y el Imperio Británico.</p>
-
-                        <p>En 1579 la corona española encargó al capitán Pedro Sarmiento de Gamboa la exploración y
-                            fortificación del Estrecho de Magallanes, paso estratégico entre el Atlántico y el Pacífico,
-                            con el fin de proteger la región del mayor enemigo de España, el Imperio Británico.</p>
+                        <p>Durante el proceso de conquista y colonización de América, España se erigió como la mayor
+                            potencia mundial, seguida por Portugal y el Imperio Británico. En 1579 la corona española
+                            encargó al capitán Pedro Sarmiento de Gamboa la exploración y fortificación del Estrecho de
+                            Magallanes, paso estratégico entre el Atlántico y el Pacífico, con el fin de proteger la
+                            región del mayor enemigo de España, el Imperio Británico.</p>
 
                         <p>Dos años más tarde, una tripulación de 3000 personas distribuidas en 23 navíos partió hacia
                             el Estrecho de Magallanes. El viaje se demoró unos 3 años, producto de las paradas en
                             distintos puertos e incursiones fallidas debido a las inclemencias del clima y del mar.
-                            Durante ese trayecto una gran parte de la tripulación perdió la vida. Solo 300 personas
-                            arribaron a destino y Pedro Sarmiento de Gamboa fundó Ciudad del Nombre de Jesús, la colonia
-                            española más austral de América.</p>
+                            Muchas murieron en el trayecto, tan solo 300 personas arribaron a destino y Pedro Sarmiento
+                            de Gamboa fundó Ciudad del Nombre de Jesús, la colonia española más austral de América.</p>
 
                         <p>Tres años después, solo un puñado de pobladores permanecían con vida. La colonia había
                             fracasado. La región parecía maldita.</p>
+
 
 
                     </div>

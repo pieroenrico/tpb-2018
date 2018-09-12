@@ -16,6 +16,9 @@
 
                 <div class="grid-sizer"></div>
 
+                @include('partials.investigations.cuestiones')
+                @include('partials.investigations.prohibido-jugar')
+                @include('partials.investigations.llevando-videojuegos')
                 @include('partials.investigations.indagaciones2010')
                 @include('partials.investigations.um')
                 @include('partials.investigations.indagaciones2008')

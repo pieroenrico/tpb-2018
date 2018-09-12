@@ -12,6 +12,13 @@
 
                 <div class="grid-sizer"></div>
 
+
+
+
+
+
+
+
                 <article class="brick entry format-quote animate-this quote-grad format-download quote-grad-alt-1" >
 
                     <div class="entry-thumb">

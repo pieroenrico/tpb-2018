@@ -20,7 +20,7 @@
 
         </div>
         <div class="entry-excerpt">
-            Base de datos
+            Red Social
         </div>
     </div>
 

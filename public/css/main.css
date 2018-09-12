@@ -1510,16 +1510,23 @@ input::-moz-focus-inner {
 	background: #000;
 }
 
+.format-standard.quote-grad .entry-text,
+.format-quote.format-quote-inner.quote-grad .entry-thumb,
 .format-quote.quote-grad {
 	background: #22c1c3;  /* fallback for old browsers */
 	background: -webkit-linear-gradient(to bottom, #fdbb2d, #22c1c3);  /* Chrome 10-25, Safari 5.1-6 */
 	background: linear-gradient(to bottom, #fdbb2d, #22c1c3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
+.format-quote.format-quote-inner.quote-grad {
+	background: none !important;
+}
+.format-standard.quote-grad.quote-grad-alt-1 .entry-text,
 .format-quote.quote-grad.quote-grad-alt-1 {
     background: #FC5C7D;  /* fallback for old browsers */
     background: -webkit-linear-gradient(to bottom, #6A82FB, #FC5C7D);  /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(to bottom, #6A82FB, #FC5C7D); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
+.format-standard.quote-grad.quote-grad-alt-2 .entry-text,
 .format-quote.quote-grad.quote-grad-alt-2 {
     background: #30E8BF;  /* fallback for old browsers */
     background: -webkit-linear-gradient(to bottom, #FF8235, #30E8BF);  /* Chrome 10-25, Safari 5.1-6 */

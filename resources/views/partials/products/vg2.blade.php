@@ -20,7 +20,7 @@
 
         </div>
         <div class="entry-excerpt">
-            Videojuego sobre relocalizaciones forzadas
+            Videojuego: Realidad Alternativa
         </div>
     </div>
 

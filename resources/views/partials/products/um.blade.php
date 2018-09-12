@@ -20,7 +20,7 @@
 
         </div>
         <div class="entry-excerpt">
-            Videojuego sobre producción sustentable
+            Videojuego: Logística y Desplazamientos
         </div>
     </div>
 

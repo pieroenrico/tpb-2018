@@ -1,7 +1,7 @@
 <article class="brick entry animate-this" >
 
     <div class="entry-thumb">
-        <a href="single-standard.html" class="thumb-link">
+        <a href="https://www.educ.ar/noticias/122659/nuevo-atlas-cultural-de-la-argentina" class="thumb-link" target="_blank">
             <img src="images/thumbs/atlascultura.png" alt="USAF rocket">
         </a>
     </div>
@@ -15,7 +15,7 @@
                			</span>
             </div>
 
-            <h1 class="entry-title"><a href="single-standard.html">Atlas Cultural de la Argentina</a></h1>
+            <h1 class="entry-title"><a href="https://www.educ.ar/noticias/122659/nuevo-atlas-cultural-de-la-argentina" target="_blank">Atlas Cultural de la Argentina</a></h1>
 
         </div>
         <div class="entry-excerpt">

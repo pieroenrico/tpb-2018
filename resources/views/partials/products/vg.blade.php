@@ -20,7 +20,7 @@
 
         </div>
         <div class="entry-excerpt">
-            Videojuego sobre relocalizaciones forzadas
+            Videojuego: Recursos Naturales y Participación Ciudadana
         </div>
     </div>
 

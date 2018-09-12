@@ -30,12 +30,15 @@
                             <li class="cat"><a href="">Videojuego</a></li>
                         </ul>
 
-                        <p class="lead" ><strong>4HA</strong> es un videojuego que propone realizar una experiencia de agricultura
-                            basada en la producción agrosustentable de pequeños y medianos productores, en una escala de economía regional.</p>
+                        <p class="lead" ><strong>4HA</strong> es un videojuego que propone realizar una experiencia de agricultura basada en la producción agrosustentable de pequeños y medianos productores, en una escala de economía regional.</p>
 
-                        <p>Basado en el caso de los productores agropecuarios del Parque Pereyra Iraola de Buenos Aires, el objetivo
-                            del juego es cambiar el tipo de producción en el plazo de 4 años y seguir obteniendo rentabilidad, aunque esto a
-                            veces resulte complicado.</p>
+                        <p>Basado en el caso de los productores agropecuarios del Parque Pereyra Iraola de Buenos
+                            Aires, el objetivo del juego es cambiar el tipo de producción en el plazo de 4 años y seguir
+                            obteniendo rentabilidad, aunque esto a veces resulte complicado.</p>
+
+                        <p>La experiencia propone al jugador enfrentarse a los desafíos que supone un cambio de modelo
+                            de producción manteniendo la rentabilidad.</p>
+
 
 
                     </div>
