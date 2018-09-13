@@ -10,7 +10,7 @@
                 (RELPE)...
             </p>
 
-            <cite><a href="{{ asset('downloads/tizapapelbyte-informe-2009.pdf') }}" target="_blank"></a></cite>
+            <cite><a href="{{ asset('downloads/tizapapelbyte-informe-2009.pdf') }}" target="_blank">Descargar</a></cite>
         </blockquote>
     </div>
 

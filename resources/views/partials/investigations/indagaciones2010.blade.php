@@ -10,7 +10,7 @@
                 según la pertenencia a una clase social dada.
             </p>
 
-            <cite><a href="{{ asset('downloads/tizapapelbyte-informe-2010.pdf') }}" target="_blank"></a></cite>
+            <cite><a href="{{ asset('downloads/tizapapelbyte-informe-2010.pdf') }}" target="_blank">Descargar</a></cite>
         </blockquote>
     </div>
 

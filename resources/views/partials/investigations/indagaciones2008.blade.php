@@ -10,7 +10,7 @@
                 Buenos Aires y de la provincia de Buenos Aires...
             </p>
 
-            <cite><a href="{{ asset('downloads/tizapapelbyte-informe-2008.pdf') }}" target="_blank"></a></cite>
+            <cite><a href="{{ asset('downloads/tizapapelbyte-informe-2008.pdf') }}" target="_blank">Descargar</a></cite>
         </blockquote>
     </div>
 
