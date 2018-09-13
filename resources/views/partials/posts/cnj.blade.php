@@ -1,7 +1,7 @@
 <article class="brick entry format-standard animate-this">
 
     <div class="entry-thumb">
-        <a href="single-standard.html" class="thumb-link">
+        <a href="{{ route('product', ['id' => 'cientificos-del-futuro']) }}" class="thumb-link">
             <img src="images/thumbs/cnj.png" alt="building">
         </a>
     </div>
@@ -15,7 +15,7 @@
                			</span>
             </div>
 
-            <h1 class="entry-title"><a href="single-standard.html">Ciudad del Nombre de Jesús</a></h1>
+            <h1 class="entry-title"><a href="{{ route('product', ['id' => 'cientificos-del-futuro']) }}">Ciudad del Nombre de Jesús</a></h1>
 
         </div>
         <div class="entry-excerpt">

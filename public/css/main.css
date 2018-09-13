@@ -3530,3 +3530,15 @@ body.about {
 	font-size: 15px;
 	letter-spacing: 1px;
 }
+
+.contact-data strong {
+	font-weight: 600;
+}
+.contact-data a {
+	color: #000;
+	text-decoration: none;
+}
+
+#contact-form .subscribe-message {
+	display: none;
+}

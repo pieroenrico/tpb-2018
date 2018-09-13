@@ -20,6 +20,7 @@
                 @include('partials.posts.cnj')
                 @include('partials.posts.quote2')
                 @include('partials.posts.analia')
+                @include('partials.posts.posdata')
                 @include('partials.posts.cdf')
                 @include('partials.posts.quote1')
                 @include('partials.posts.press-conversaciones-necesarias')

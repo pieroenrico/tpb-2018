@@ -1,7 +1,7 @@
 <article class="brick entry format-standard animate-this">
 
     <div class="entry-thumb">
-        <a href="single-standard.html" class="thumb-link">
+        <a href="#" class="thumb-link">
             <img src="images/thumbs/curso-4ha.jpg" alt="building">
         </a>
     </div>
@@ -15,7 +15,7 @@
                			</span>
             </div>
 
-            <h1 class="entry-title"><a href="single-standard.html">Videojuegos y Pantallas</a></h1>
+            <h1 class="entry-title"><a href="#">Videojuegos y Pantallas</a></h1>
 
         </div>
         <div class="entry-excerpt">

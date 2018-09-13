@@ -21,7 +21,7 @@
 
                     <div class="primary-content">
 
-                        <h1 class="entry-title add-bottom">Envíenos su mensaje.</h1>
+                        <h1 class="entry-title add-bottom">Contáctenos.</h1>
 
                         <p class="lead">Nuestro objetivo es estar en contacto con diferentes colegas, instituciones y colaboradores con quienes compartir nuestro trabajo y fortalecer las diferentes áreas de nuestro equipo.</p>
 
@@ -39,11 +39,14 @@
 
                             </div>--}}
 
-                            <div class="col-six tab-full">
+                            <div class="col-six tab-full contact-data">
                                 <h4>Datos de contacto</h4>
 
-                                <p>tizapapelbyte@gmail.com<br>
-                                    analiasegal@gmail.com <br>
+                                <p> <strong>General:</strong> <a href="mailto:tizapapelbyte@gmail.com">tizapapelbyte@gmail.com</a><br>
+                                    <strong>Dirección:</strong> <a href="mailto:analiasegal@gmail.com">analiasegal@gmail.com</a> <br>
+                                    <strong>Tecnología:</strong> <a href="mailto:pierobona@gmail.com">pierobona@gmail.com</a> <br>
+                                    <strong>Cursos:</strong> <a href="mailto:japiraconf@gmail.com">japiraconf@gmail.com</a> <br>
+
 
                                 </p>
 
@@ -51,9 +54,12 @@
 
                         </div>
 
-                        <form name="cForm" id="cForm" method="post" action="#">
-                            <fieldset>
+                        <form name="cForm" id="contact-form" method="post" action="{{ route('api.contact.store') }}">
 
+                            <h4>O envíenos un mensaje:</h4>
+
+                            <fieldset>
+                                <input type="hidden" name="_token" id="_token" value="{{ csrf_token() }}">
                                 <div class="form-field">
                                     <input name="cName" type="text" id="cName" class="full-width" placeholder="Nombre Completo" value="">
                                 </div>
@@ -70,10 +76,16 @@
                                     <textarea name="cMessage" id="cMessage" class="full-width" placeholder="Mensaje" ></textarea>
                                 </div>
 
-                                <button type="submit" class="submit button-primary full-width-on-mobile">Submit</button>
+                                <div class="subscribe-message" style="font-weight: 600;margin-bottom:30px">
+                                    Enviando...
+                                </div>
+
+                                <button type="submit" class="submit button-primary full-width-on-mobile" id="submitter">Submit</button>
 
                             </fieldset>
                         </form> <!-- end form -->
+
+
 
                 </section>
 

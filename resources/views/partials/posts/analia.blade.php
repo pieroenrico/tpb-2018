@@ -1,7 +1,7 @@
 <article class="brick entry animate-this" >
 
     <div class="entry-thumb">
-        <a href="single-standard.html" class="thumb-link">
+        <a href="https://usbeketrica.com/video/serious-games-les-jeux-video-font-de-la-politique" class="thumb-link" target="_blank">
             <img src="images/thumbs/analia.jpg" alt="USAF rocket">
         </a>
     </div>
@@ -15,7 +15,7 @@
                			</span>
             </div>
 
-            <h1 class="entry-title"><a href="single-standard.html">Habitat III Conference</a></h1>
+            <h1 class="entry-title"><a href="https://usbeketrica.com/video/serious-games-les-jeux-video-font-de-la-politique" target="_blank">Habitat III Conference</a></h1>
 
         </div>
         <div class="entry-excerpt">

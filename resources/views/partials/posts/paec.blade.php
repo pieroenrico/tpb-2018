@@ -1,7 +1,7 @@
 <article class="brick entry animate-this">
 
     <div class="entry-thumb">
-        <a href="single-standard.html" class="thumb-link">
+        <a href="#" class="thumb-link">
             <img src="images/thumbs/paec.png" alt="Shutterbug">
         </a>
     </div>
@@ -15,7 +15,7 @@
                			</span>
             </div>
 
-            <h1 class="entry-title"><a href="single-standard.html">Programa de Ayuda a Emprendimientos Culturales</a></h1>
+            <h1 class="entry-title"><a href="#">Programa de Ayuda a Emprendimientos Culturales</a></h1>
 
         </div>
         <div class="entry-excerpt">
