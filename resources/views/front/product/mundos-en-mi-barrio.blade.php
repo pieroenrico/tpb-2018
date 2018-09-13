@@ -38,7 +38,7 @@
 
                     <div class="primary-content">
 
-                        <p class="lead">El principal objetivo de esta plataforma es generar una comunidad de usuarios que comparta su interés por la lectura, y proponerles que se involucren con obras literarias argentinas desde un nuevo ángulo. Es una apuesta por integrar diferentes lenguajes, la literatura, la fotografía, a propósito del territorio, el barrio. Se trata de una propuesta quese adapta fácilmente al escenario escolar, pero también es interesante para pensar en otros espacios como clubes barriales, bibliotecas populares, etc.</p>
+                        <p class="lead">El principal objetivo de esta plataforma es generar una comunidad de usuarios que comparta su interés por la lectura, y proponerles que se involucren con obras literarias argentinas desde un nuevo ángulo. Es una apuesta por integrar diferentes lenguajes, la literatura, la fotografía, a propósito del territorio, el barrio. Se trata de una propuesta que se adapta fácilmente al escenario escolar, pero también es interesante para pensar en otros espacios como clubes barriales, bibliotecas populares, etc.</p>
 
                         <p>La plataforma brinda la posibilidad a los jugadores de compartir en una galería de imágenes las hipótesis visuales que ellos tengan sobre las distintas locaciones citadas en los cuentos elegidos. Este banco de imágenes servirá de material de consulta para otros usuarios y docentes que estén convocando a sus alumnos a participar.</p>
 

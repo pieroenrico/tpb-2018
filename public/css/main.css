@@ -1667,10 +1667,11 @@ header .intro {
 	display: block;
 	font-weight: 300;
 }
-header .intro u {
+header .intro a u {
 	text-decoration: none;
 	border-bottom: 1px solid #333;
 	font-weight: 600;
+	color: #000;
 }
 
 .scroll	{

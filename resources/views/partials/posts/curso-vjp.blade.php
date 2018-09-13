@@ -2,7 +2,7 @@
 
     <div class="entry-thumb">
         <a href="single-standard.html" class="thumb-link">
-            <img src="images/thumbs/mica.png" alt="building">
+            <img src="images/thumbs/curso-4ha.jpg" alt="building">
         </a>
     </div>
 

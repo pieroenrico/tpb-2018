@@ -31,7 +31,8 @@
     </div>
 
     <div class="intro">
-        <p>Somos un grupo interdisciplinario de <u>profesionales de las Ciencias Sociales</u> y la <u>tecnología</u>, que investiga y desarrolla <u>materiales educativos</u> con el fin de producir saberes sobre los <u>modos de apropiación de los Nuevos Medios</u>.</p>
+        <p>Somos un grupo interdisciplinario de <a href="{{ route('about') }}"><u>profesionales de las Ciencias Sociales y la tecnología</u></a>, que investiga y desarrolla
+            <a href="{{ route('products') }}"><u>materiales educativos</u></a> con el fin de producir saberes sobre los <a href="{{ route('investigation') }}"><u>modos de apropiación de los Nuevos Medios</u></a>.</p>
     </div>
 
     <div class="scroll">

@@ -85,8 +85,8 @@
                     {{--<li><a href="#">Twitter</a></li>--}}
                     {{--<li><a href="#">Facebook</a></li>--}}
                     {{--<li><a href="#">Dribbble</a></li>--}}
-                    <li><a href="#">Facebook</a></li>
-                    <li><a href="#">Instagram</a></li>
+                    <li><a href="https://www.facebook.com/TizaPapelByte-365775454885/notifications/" target="_blank">Facebook</a></li>
+                    <li><a href="https://www.instagram.com/villagirondo/" target="_blank">Instagram</a></li>
                 </ul>
 
             </div> <!-- end social links -->
